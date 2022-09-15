@@ -1,0 +1,12 @@
+
+
+body{
+    max-width: 1408px;
+        background-color: rgb(31, 31, 31);
+}
+.coverBanner{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
